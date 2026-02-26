@@ -29,11 +29,7 @@ Software Engineering student from Ukraine, focused on backend development. AI/ML
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
----
-
 ## 📫 Let's Connect!
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/sh7mansk7i)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vladyslav-shymanskyi-86237028b)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:svlad2331@gmail.com)
-
-[![](https://visitcount.itsvg.in/api?id=VladSmk&icon=0&color=0)](https://visitcount.itsvg.in)
