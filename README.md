@@ -2,12 +2,12 @@
 
 Software Engineering student from Ukraine, focused on backend development. AI/ML enthusiast; I enjoy competitive programming and algorithmic problem solving.
 
-# 🎯 What I Do & Tech Focus
+## 🎯 What I Do & Tech Focus
 - ☕ **Backend:** Java backend development with **Spring Boot**, **Spring Security**, **JPA/Hibernate** — REST APIs, clean architecture, testing, performance.
 - 🤖 **AI / ML:** **Python** + **PyTorch**, **OpenCV**, **YOLO**, **ONNX** — training/inference pipelines, model integration, automation of experiments.
 - 🌍 **Cloud & Automation:** **AWS** fundamentals (deployment flow, core services, basic CI/CD) + workflow automation with **n8n**.
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
@@ -30,3 +30,10 @@ Software Engineering student from Ukraine, focused on backend development. AI/ML
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ---
+
+## 📫 Let's Connect!
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/sh7mansk7i)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vladyslav-shymanskyi-86237028b)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:svlad2331@gmail.com)
+
+[![](https://visitcount.itsvg.in/api?id=VladSmk&icon=0&color=0)](https://visitcount.itsvg.in)
